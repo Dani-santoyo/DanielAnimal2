@@ -1,6 +1,9 @@
 package inheritanceDemoV3;
 //version 3
 public class Animal {
+    /*
+
+     */
 
     protected boolean beingDangerous;
     protected int numberOfLegs;
